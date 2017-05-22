@@ -1,5 +1,5 @@
 # jetray-runtime-angular
-Webpack generated "runtime" for Angular used by JetRay portlet generator
+Webpack generated "runtime" for Angular used by Jetray portlet generator
 
 TL;DR
 
