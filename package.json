@@ -1,6 +1,6 @@
 {
   "name": "jetray-runtime-angular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Javascript Angular Portlet Runtime for Liferay 7/DXP",
   "author": {
